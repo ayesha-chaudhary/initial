@@ -1,3 +1,3 @@
 # initial
-let's start the journey ,
+Let's start the journey ,
 This is my first Repository.
